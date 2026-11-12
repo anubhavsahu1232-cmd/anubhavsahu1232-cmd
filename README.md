@@ -43,7 +43,7 @@ An AI-assisted academic research workspace for generating structured, editable r
 
 <p>
   <a href="https://github.com/anubhavsahu1232-cmd/AI-Research-Assistant"><img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-View%20on%20GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Coming%20Soon-orange?style=for-the-badge" />
+  <a href="https://research-assistant-frontend-kappa.vercel.app/"><img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20Application-16a34a?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ### 🎟️ Ticket Booking System
