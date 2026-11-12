@@ -41,7 +41,10 @@ An AI-assisted academic research workspace for generating structured, editable r
 
 **Stack:** Java · Spring Boot · React · REST APIs · AI integration
 
-[![View AI Research Assistant](https://img.shields.io/badge/VIEW%20PROJECT- AI%20RESEARCH%20ASSISTANT-2563eb?style=for-the-badge&logo=github)](https://github.com/anubhavsahu1232-cmd/AI-Research-Assistant)
+<p>
+  <a href="https://github.com/anubhavsahu1232-cmd/AI-Research-Assistant"><img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-View%20on%20GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Coming%20Soon-orange?style=for-the-badge" />
+</p>
 
 ### 🎟️ Ticket Booking System
 A full-stack event ticket booking application with event discovery, seat selection, booking workflows, and an admin area.
@@ -54,7 +57,10 @@ A full-stack event ticket booking application with event discovery, seat selecti
 
 **Stack:** Java · Spring Boot · Spring Security · JWT · React · MySQL
 
-[![View Ticket Booking System](https://img.shields.io/badge/VIEW%20PROJECT-TICKET%20BOOKING-181717?style=for-the-badge&logo=github)](https://github.com/anubhavsahu1232-cmd/ticket-booking-system)
+<p>
+  <a href="https://github.com/anubhavsahu1232-cmd/ticket-booking-system"><img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-View%20on%20GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://ticket-booking-system-vercel-8z51dzxkd-single-159e.vercel.app/"><img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20Application-16a34a?style=for-the-badge&logo=vercel" /></a>
+</p>
 
 ### ✅ Task Management System
 A task tracking application with separate frontend and backend repositories.
@@ -67,8 +73,11 @@ A task tracking application with separate frontend and backend repositories.
 
 **Stack:** Java · Spring Boot · Spring Security · JWT · React · MySQL
 
-[![Backend](https://img.shields.io/badge/BACKEND-1f2937?style=for-the-badge&logo=github)](https://github.com/anubhavsahu1232-cmd/task-management-system)
-[![Frontend](https://img.shields.io/badge/FRONTEND-2563eb?style=for-the-badge&logo=github)](https://github.com/anubhavsahu1232-cmd/task-management-frontend)
+<p>
+  <a href="https://github.com/anubhavsahu1232-cmd/task-management-system"><img src="https://img.shields.io/badge/⚙️%20BACKEND-Source%20Code-1f2937?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/anubhavsahu1232-cmd/task-management-frontend"><img src="https://img.shields.io/badge/🎨%20FRONTEND-Source%20Code-2563eb?style=for-the-badge&logo=github" /></a>
+  <a href="https://task-management-frontend-fpzp.onrender.com"><img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20Application-16a34a?style=for-the-badge&logo=render" /></a>
+</p>
 
 ## 📚 Learning & Growth
 
